@@ -1,0 +1,39 @@
+_repo: Johnny-Ludlow-Third-Series_40936
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40936-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wood, Henry, Mrs.
+    aliases:
+    - Ludlow, Johnny
+    - Price, Ellen
+    - Wood, Mrs. Henry
+    - Wood, Ellen Price
+    birthdate: 1814
+    deathdate: 1887
+    gutenberg_agent_id: '1177'
+    url: http://www.gutenberg.org/2009/agents/1177
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Wood_%28author%29
+description: ''
+gutenberg_issued: '2012-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40936'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+tableOfContents: 'The mystery of Jessy Page -- Crabb Ravine -- Our visit -- Janet
+  Carey -- Dr. Knox -- Helen Whitney''s wedding -- Helen''s curate -- Jellico''s pack
+  -- Caromel''s farm -- Charlotte and Charlotte -- The last of the Caromels -- A day
+  in Briar Wood -- The story of Dorothy Grape: disappearance -- The story of Dorothy
+  Grape: in after years -- Lady Jenkins: Mina -- Lady Jenkins: doubt -- Lady Jenkins:
+  madame -- Lady Jenkins: light -- The angels'' music.'
+title: Johnny Ludlow, Third Series
+url: http://www.gutenberg.org/ebooks/40936
